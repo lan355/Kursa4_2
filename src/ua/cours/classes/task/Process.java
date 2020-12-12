@@ -9,7 +9,7 @@ import java.util.Comparator;
 public class Process {
     private final int id;        //after create
     private final String name;    //rand
-    private int priority;
+    private int priority;      //rand
     private Status status;    //rand + on work
     private  int tickWorks;       //rand
     private final int memory;     //rand
