@@ -1,7 +1,7 @@
 package ua.cours.classes;
 
 public class Configuration {
-    public static final int PC_CORE = 4;
+    public static final int PC_CORE = 2;
     public static int MAX_MEMORY_SIZE = 3048;
     public static int maxPriority = 32;
     public static int PROCESSES_ON_START = 0;
