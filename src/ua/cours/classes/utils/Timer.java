@@ -15,19 +15,7 @@ public class Timer extends TimerTask {
     public static void TickUP(){
         tick++;
     }
-//    Queue q;
-//    /////////////////////////
-//
-//
-//    public Queue getQ() {
-//        return q;
-//    }
-//
-//    public void setQ(Queue q) {
-//        this.q = q;
-//    }
-//
-//    ////////////////////
+
     public static void clearTime(){tick =0;}
 
     @Override
